@@ -39,9 +39,11 @@ I’m passionate about improving healthcare outcomes and collaborating across di
 - Developed statistical models using SAS and NHANES data, contributing to an NIH-funded observational study
 - Assisted in formulating data analysis plans and contributed to research studies
 
-### Clinical Background (Dentistry)
-- Prior to biostatistics, worked as an Endodontist with expertise in root canal therapy and preventive oral health education
+### Clinical & Research Background (Dentistry)
+- Prior to biostatistics, I worked as an Endodontist with expertise in root canal therapy and preventive oral health education
 - Organized and led dental health camps to promote oral hygiene among school children
+- Conducted in-vitro dental materials research, performed statistical analysis in SPSS to evaluate microleakage and quality of restorative materials
+- Authored peer-reviewed publications
 
 ## Get in Touch
 - 📫 Reach me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/drarpitadeb/)
