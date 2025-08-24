@@ -1,7 +1,7 @@
-👋 Hi, I’m Arpita, a Biostatistician with experience in supporting NIH-funded clinical trials, real-world evidence studies, and population health research. I specialize in study design, grant writing, advanced statistical modeling, and reproducible programming in R and SAS
-My work spans from oncology and cardiology to projects on social determinants of health, with a strong focus on translating data into actionable insights
-I began my career as a dentist and bring that clinical perspective into my research, bridging the gap between clinical practice and data science
-I’m passionate about improving healthcare outcomes and collaborating across disciplines to make data meaningful for policy, practice, and patients
+👋 Hi, I’m Arpita, a Biostatistician with experience in supporting NIH-funded clinical trials, real-world evidence studies, and population health research. I specialize in study design, grant writing, advanced statistical modeling, and reproducible programming in R and SAS.
+My work spans from oncology and cardiology to projects on social determinants of health, with a strong focus on translating data into actionable insights.
+I began my career as a dentist and bring that clinical perspective into my research, bridging the gap between clinical practice and data science.
+I’m passionate about improving healthcare outcomes and collaborating across disciplines to make data meaningful for policy, practice, and patients.
 
 ## My Work Experience
 
