@@ -1,4 +1,4 @@
-👋 Hi, I’m @Aaarpitaa
+👋 Hi, I’m Arpita
 
 I’m a Biostatistician and Data Scientist with experience supporting NIH-funded clinical trials, real-world evidence studies, and population health research
 
