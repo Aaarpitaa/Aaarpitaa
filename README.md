@@ -1,14 +1,14 @@
 👋 Hi, I’m @Aaarpitaa
 
-👀 I’m a Biostatistician and Data Scientist with experience supporting NIH-funded clinical trials, real-world evidence studies, and population health research
+I’m a Biostatistician and Data Scientist with experience supporting NIH-funded clinical trials, real-world evidence studies, and population health research
 
-🌱 I specialize in study design, grant writing, advanced statistical modeling, and reproducible programming in R and SAS
+I specialize in study design, grant writing, advanced statistical modeling, and reproducible programming in R and SAS
 
-💡 My work spans from oncology and cardiology to projects on social determinants of health, with a strong focus on translating data into actionable insights
+My work spans from oncology and cardiology to projects on social determinants of health, with a strong focus on translating data into actionable insights
 
-🦷 I began my career as a dentist and bring that clinical perspective into my research, bridging the gap between clinical practice and data science
+I began my career as a dentist and bring that clinical perspective into my research, bridging the gap between clinical practice and data science
 
-📫 I’m passionate about improving healthcare outcomes and collaborating across disciplines to make data meaningful for policy, practice, and patients
+I’m passionate about improving healthcare outcomes and collaborating across disciplines to make data meaningful for policy, practice, and patients
 
 ## My Work Experience
 
@@ -54,5 +54,5 @@
 - 📫 Reach me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/drarpitadeb/)
 - 📧 Email me at drarpita0809@gmail.com
 
-Please feel free to connect and collaborate! Let's explore the exciting intersection of healthcare and data together. 📊🏥
+Please feel free to connect and collaborate! Let's explore the exciting intersection of healthcare and data together
 
